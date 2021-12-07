@@ -1,0 +1,27 @@
+.card_admissiondetails_height {
+    width: 100%;
+    height: auto;
+  }
+  .textfiled_margin {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .cardheight_overflow {
+    height: 500px;
+    overflow-y: scroll;
+  }
+  .text_filed_heading {
+    font-weight: 600;
+  }
+  .button_formatting {
+    background-color: #0070bb !important;
+    text-transform: capitalize !important;
+    color: white !important;
+    text-decoration: none !important;
+    outline: none !important;
+  }
+  .icon_color {
+    color: #0070bb !important;
+    font-size: 20px;
+  }
+  
